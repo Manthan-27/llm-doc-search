@@ -176,10 +176,9 @@ python -m src.summarize.summarize_chunks
 ## Author
 
 Manthan Shetty
-Assignment: Document Search & Summarization Using LLM
+
 
 ```
 
 
-If you want, I can also **write a clean `requirements.txt`** ready for this repo so your assigners can just install it. Do you want me to do that?
 ```
