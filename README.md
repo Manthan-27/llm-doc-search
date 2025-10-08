@@ -1,6 +1,6 @@
 ## Project Pipeline
 
-![Pipeline Diagram](assets/pipeline.png)
+![Pipeline Diagram](assets/image.png)
 
 
 ```markdown
